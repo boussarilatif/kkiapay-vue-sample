@@ -18,7 +18,7 @@ export default {
       window.openKkiapayWidget({
         sandbox: true,
         amount: "3000",
-        key: "f1e7270098f811e99eae1f0cfc677927"
+        key: "xxxxxx"
       });
     }
   }
